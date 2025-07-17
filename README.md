@@ -156,15 +156,7 @@ To build on this project:
 4. **A/B Testing**:
    - Test improvements on app vs website with real users.
 
----
 
-## 👤 Author
-
-**[Your Name]**  
-Contract Data Scientist — Ecommerce & Retail Analytics  
-📍 New York City  
-📫 [your.email@example.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com)
 
 ---
 
